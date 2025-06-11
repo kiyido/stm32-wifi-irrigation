@@ -2,11 +2,11 @@
 
 ## 1、整体结构
 
-![](image\design.jpg)
+<img src="image/design.jpg" alt="design" style="width:50%;">
 
 ## 2、运行逻辑
 
-![](image/logic.jpg)
+<img src="image/logic.jpg" alt="logic" style="width:50%;">
 
 ## 3、主要使用的硬件以及接线方案
 
@@ -42,8 +42,8 @@ IN <-> PB1
 
 ## 4、上位机
 
-![](image/view-upper.png)
+<img src="image/view-upper.png" alt="view-upper" style="width:50%;">
 
 ## 5、下位机
 
-![](image/view-lower.jpg)
+<img src="image/view-lower.jpg" alt="view-lower" style="width:50%;">
