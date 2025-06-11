@@ -2,11 +2,11 @@
 
 ## 1、整体结构
 
-![img src="images/system-diagram.png" alt="System Diagram" style="width:50%;" /](image\design.jpg)
+![](image\design.jpg)
 
 ## 2、运行逻辑
 
-![img src="images/system-diagram.png" alt="System Diagram" style="width:50%;" /](image/logic.jpg)
+![](image/logic.jpg)
 
 ## 3、主要使用的硬件以及接线方案
 
@@ -39,3 +39,11 @@ TX <-> PA3
 #### (6) 继电器，常开端连接水泵
 
 IN <-> PB1
+
+## 4、上位机
+
+![](image/view-upper.png)
+
+## 5、下位机
+
+![](image/view-lower.jpg)
